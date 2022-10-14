@@ -1,0 +1,10 @@
+name: TaskRace
+version: '${project.version}'
+main: com.github.glatinis.taskrace.TaskRace
+api-version: 1.19
+authors: [ Glatinis ]
+description: A game about doing tasks fast.
+commands:
+  taskrace:
+    usage: /<command> <option>
+    description: Manage the TaskRace plugin.
